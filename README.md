@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🌱 I'm currently working on learning JavaScript
-- ⚡ Fun fact: I'm a minimalist .  
+- 🌱 I'm currently working on learning Python.
+- ⚡ Fun fact: I'm a minimalist.  
 <!--
 **BrainCacheMiss/BrainCacheMiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
