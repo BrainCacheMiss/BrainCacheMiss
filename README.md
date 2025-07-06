@@ -2,6 +2,10 @@
 
 - 🌱 I'm currently working on learning Python.
 - ⚡ Fun fact: I'm a minimalist.  
+
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/ce3ae662-7611-414c-af75-496c82b5ccd6/thumbnail" >
+</p>
 <!--
 **BrainCacheMiss/BrainCacheMiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
