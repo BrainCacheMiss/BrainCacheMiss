@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🌱 I'm currently working on learning Python.
-- ⚡ Fun fact: I'm a minimalist.  
+- 🌱 I'm currently learning Python.
+- ⚡ Fun fact: I don't know what I'm doing.  
 
 <p align="center">
   <img src="https://api.boot.dev/v1/users/public/ce3ae662-7611-414c-af75-496c82b5ccd6/thumbnail" >
